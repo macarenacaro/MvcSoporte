@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcaro\\OneDrive\\Documentos\\2.IES MARE NOSTRUM\\1.ENTORNO DESARROLLO SERVIDOR\\macarenacaro\\MVC2\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {}
+    "C:\\Users\\maccarcor\\Documents\\Desarrollo Web Entorno Servidor\\MVCSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcaro\\OneDrive\\Documentos\\2.IES MARE NOSTRUM\\1.ENTORNO DESARROLLO SERVIDOR\\macarenacaro\\MVC2\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {
+    "C:\\Users\\maccarcor\\Documents\\Desarrollo Web Entorno Servidor\\MVCSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcaro\\OneDrive\\Documentos\\2.IES MARE NOSTRUM\\1.ENTORNO DESARROLLO SERVIDOR\\macarenacaro\\MVC2\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+        "projectUniqueName": "C:\\Users\\maccarcor\\Documents\\Desarrollo Web Entorno Servidor\\MVCSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
         "projectName": "MvcSoporte",
-        "projectPath": "C:\\Users\\mcaro\\OneDrive\\Documentos\\2.IES MARE NOSTRUM\\1.ENTORNO DESARROLLO SERVIDOR\\macarenacaro\\MVC2\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
-        "packagesPath": "C:\\Users\\mcaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcaro\\OneDrive\\Documentos\\2.IES MARE NOSTRUM\\1.ENTORNO DESARROLLO SERVIDOR\\macarenacaro\\MVC2\\MvcSoporte\\MvcSoporte\\obj\\",
+        "projectPath": "C:\\Users\\maccarcor\\Documents\\Desarrollo Web Entorno Servidor\\MVCSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+        "packagesPath": "C:\\Users\\maccarcor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maccarcor\\Documents\\Desarrollo Web Entorno Servidor\\MVCSoporte\\MvcSoporte\\MvcSoporte\\MvcSoporte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mcaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maccarcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
