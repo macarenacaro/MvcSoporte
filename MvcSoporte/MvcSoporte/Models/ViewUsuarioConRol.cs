@@ -1,4 +1,4 @@
-﻿namespace MvcSoporte.Views
+﻿namespace MvcSoporte.Models
 {
     public class ViewUsuarioConRol
     {
